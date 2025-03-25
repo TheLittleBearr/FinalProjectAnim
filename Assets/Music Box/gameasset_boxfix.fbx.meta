@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6b1467f5f1108a745989d01ed41941e3
+guid: f1b6576f1e0a9c94caa93f6ce4f7392b
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -37,7 +37,7 @@ ModelImporter:
       takeName: RIG-Armature|RIG-ArmatureAction
       internalID: 66460120012664317
       firstFrame: 0
-      lastFrame: 250
+      lastFrame: 420
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
