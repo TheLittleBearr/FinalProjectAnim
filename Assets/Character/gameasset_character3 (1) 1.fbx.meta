@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fd85fe709703be44c878470e37bf1bfb
+guid: b20c71b1d755df342b5268141d8dd2b5
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -37,7 +37,7 @@ ModelImporter:
       takeName: rig.001|rig.001Action
       internalID: -6851493242495694946
       firstFrame: 0
-      lastFrame: 280
+      lastFrame: 240
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
